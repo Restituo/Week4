@@ -1,0 +1,31 @@
+body {
+    background-image: url("../../assets/images/background.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    position: relative;
+}
+
+img{
+    height: 360px;
+    width:240px;
+    
+}
+
+h2{
+    font-size: 36px;
+    text-align:center;
+}
+
+h3,
+#winCount,
+#loseCount,
+#targetNumber,
+#total{
+    font-size: 24px;
+    text-align: center;
+}
+
+.gem{
+    margin: 0 auto;
+    width: 1000px;
+}
